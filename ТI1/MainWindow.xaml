@@ -1,0 +1,30 @@
+﻿<Window x:Class="ТI1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ТI1"
+        mc:Ignorable="d"
+        Title="ТИ лаба 1" Height="600" Width="1000" WindowStartupLocation="CenterScreen" >
+    <Grid x:Name="MyGrid" Background="LightGray" HorizontalAlignment="Left" Width="1000">
+        <TextBox x:Name="TextBox1" Margin="32,176,704,348" Background="white" IsEnabled="True" FontSize="20" MaxLength="26" TextChanged="TextBox1_TextChanged"></TextBox>
+        <Button x:Name="EnsipherButton" Margin="32,256,704,267" Content="Ensipher" FontSize="20" Background="BlanchedAlmond" IsEnabled="False" Click="EnsipherButton_Click"></Button>
+        <Button x:Name="DesipherButton" Margin="32,322,704,198" Content="Desipher" FontSize="20" Background="BlanchedAlmond" IsEnabled="False" Click="DesipherButton_Click"></Button>
+        <TextBlock Margin="62,23,718,506" FontSize="20"><Run Language="ru-ru" Text="Алгоритм Децимации"/></TextBlock>
+        <Button x:Name="ReadFileButton" Margin="32,96,704,427" Content="Считать из файла" FontSize="20" Background="BlanchedAlmond" Click="ReadFileButton_Click"></Button>
+        <TextBox x:Name="TextBox2" Margin="32,410,704,110" IsEnabled="True" FontSize="20" RenderTransformOrigin="0.501,0.523" TextChanged="TextBox2_TextChanged"></TextBox>
+        <Button x:Name="SaveToFileButton" Margin="32,491,704,29" IsEnabled="False" FontSize="20" Background="BlanchedAlmond" Content="Сохранить в файл" Click="SaveToFileButton_Click"></Button>
+        <TextBox x:Name="KeyBox" Margin="340,176,599,348" FontSize="20" TextChanged="TextBox1_TextChanged"></TextBox>
+        <TextBlock Margin="346,137,599,396" Text="Key:" FontSize="20" ></TextBlock>
+
+        <TextBlock Text="Алгоритм Виженера прямой ключ" FontSize="20" Margin="630,23,46,506"></TextBlock>
+        <Button Margin="660,96,76,427" Background="BlanchedAlmond" Content="Считать из файла" FontSize="20" IsEnabled="True" x:Name="ReadVigFromFileButton" Click="ReadVigFromFileButton_Click"></Button>
+        <TextBox Margin="660,176,76,348" FontSize="20" x:Name="TextBox3" TextChanged="Vigener_TextChanged"></TextBox>
+        <TextBox Margin="660,410,76,114" FontSize="20" x:Name="TextBox4" TextChanged="TextBox4_TextChanged"></TextBox>
+        <Button Margin="660,325,76,198" Background="BlanchedAlmond" Content="Desipher" FontSize="20" IsEnabled="False" x:Name="DesipherVigButton" Click="DesipherVigButton_Click"></Button>
+        <Button Margin="660,256,76,267" Background="BlanchedAlmond" Content="Ensipher" FontSize="20" IsEnabled="False" x:Name="EnsipherVigButton" Click="EnsipherVigButton_Click"></Button>
+        <Button Margin="660,491,76,29" Background="BlanchedAlmond" Content="Ensipher" FontSize="20" IsEnabled="False" x:Name="SaveVigToFileButton" Click="SaveVigToFileButton_Click"></Button>
+        <TextBlock Text="KeyWord:" FontSize="20" Margin="519,135,384,402"></TextBlock>
+        <TextBox Margin="451,176,364,348" FontSize="20" x:Name="KeyWordTextBox" TextChanged="Vigener_TextChanged"></TextBox>
+    </Grid>
+</Window>

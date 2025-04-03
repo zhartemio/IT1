@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\sipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\sipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\vigdesipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\vigdesipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\vigsipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\vigsipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\file2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\file2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\file1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\file1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\desipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\desipherator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|d:\\\u0436\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0443\u043D\u0438\u043A\\\u0442\u0438\\\u0442i1\\\u0442i1\\\u0442i1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CED5D38F-9821-4A84-9BDA-D534B76FF120}|\u0422I1\\\u0422I1.csproj|solutionrelative:\u0442i1\\\u0442i1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 138,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sipherator.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\Sipherator.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\Sipherator.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\Sipherator.cs",
+              "RelativeToolTip": "\u0422I1\\Sipherator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:36:26.065Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\.gitignore",
+              "RelativeDocumentMoniker": "\u0422I1\\.gitignore",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\.gitignore",
+              "RelativeToolTip": "\u0422I1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T17:52:23.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VigDesipherator.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\VigDesipherator.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\VigDesipherator.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\VigDesipherator.cs",
+              "RelativeToolTip": "\u0422I1\\VigDesipherator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:40:15.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VigSipherator.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\VigSipherator.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\VigSipherator.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\VigSipherator.cs",
+              "RelativeToolTip": "\u0422I1\\VigSipherator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:46:17.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\FileWriter.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\FileWriter.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\FileWriter.cs",
+              "RelativeToolTip": "\u0422I1\\FileWriter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:51:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "file2.txt",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\file2.txt",
+              "RelativeDocumentMoniker": "\u0422I1\\file2.txt",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\file2.txt",
+              "RelativeToolTip": "\u0422I1\\file2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T06:45:30.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "file1.txt",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\file1.txt",
+              "RelativeDocumentMoniker": "\u0422I1\\file1.txt",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\file1.txt",
+              "RelativeToolTip": "\u0422I1\\file1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T06:42:59.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\App.xaml.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\App.xaml.cs",
+              "RelativeToolTip": "\u0422I1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:38:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "\u0422I1",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\\u0422I1.csproj",
+              "RelativeDocumentMoniker": "\u0422I1\\\u0422I1.csproj",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\\u0422I1.csproj",
+              "RelativeToolTip": "\u0422I1\\\u0422I1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T06:33:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\AssemblyInfo.cs",
+              "RelativeToolTip": "\u0422I1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:32:36.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Desipherator.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\Desipherator.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\Desipherator.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\Desipherator.cs",
+              "RelativeToolTip": "\u0422I1\\Desipherator.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:40:22.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\FileReader.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\FileReader.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\FileReader.cs",
+              "RelativeToolTip": "\u0422I1\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:27:03.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u0422I1\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\MainWindow.xaml",
+              "RelativeToolTip": "\u0422I1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T07:20:49.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u0422I1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0416\u0438\u0433\u0438\u043C\u043E\u043D\u0442\\\u0423\u043D\u0438\u043A\\\u0422\u0418\\\u0422I1\\\u0422I1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u0422I1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowJgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:20:46.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
